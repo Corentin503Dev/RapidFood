@@ -1,0 +1,5 @@
+name: RapidFood
+version: 0.O.1
+api: 4.0.0
+author: Corentin503
+main: Food\Main
